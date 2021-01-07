@@ -1,0 +1,5 @@
+-   Rest：48 hrs    
+-   Ice ：減少腫脹（20mins/time)    
+-   Compress：彈性繃帶    
+-   Elevate：抬高超過心臟    
+-   Splint
