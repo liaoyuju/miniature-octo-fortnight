@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: 義肢final
+site_name: 考試用
 theme:
   name: material
   #  favicon: attachment/portrait.png
